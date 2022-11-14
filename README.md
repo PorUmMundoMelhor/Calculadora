@@ -1,4 +1,4 @@
-# CalculadoraBombada
+# Calculadora
 
 Este projeto tem como objetivo criar uma calculadora e aplicar os seguintes conceitos:
 
